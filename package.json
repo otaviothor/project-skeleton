@@ -14,5 +14,10 @@
     "@commitlint/config-conventional": "^13.2.0",
     "husky": "4",
     "nodemon": "^2.0.14"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
   }
 }
