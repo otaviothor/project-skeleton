@@ -1,0 +1,17 @@
+{
+  "name": "{{project_name}}",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "repository": "{{project_repository}}",
+  "author": "{{project_author}}",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^13.2.1",
+    "@commitlint/config-conventional": "^13.2.0",
+    "nodemon": "^2.0.14"
+  }
+}
