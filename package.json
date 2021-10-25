@@ -12,6 +12,7 @@
   "devDependencies": {
     "@commitlint/cli": "^13.2.1",
     "@commitlint/config-conventional": "^13.2.0",
+    "husky": "4",
     "nodemon": "^2.0.14"
   }
 }
