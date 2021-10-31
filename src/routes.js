@@ -1,5 +1,5 @@
-const express = require("express");
-const routes = express.Router();
+const { Router } = require("express");
+const routes = Router();
 
 routes.get("/", (req, res) => {
   res.json({
