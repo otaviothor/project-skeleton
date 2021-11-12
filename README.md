@@ -1,10 +1,11 @@
-<p align="center"><a href="https://nodejs.org/en" target="_blank"><img src="./.github/node-logo.svg" width="400"></a></p>
+<p align="center"><a href="https://nodejs.org/en" target="_blank"><img src="./.github/logo.svg" width="400"></a></p>
 
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en)
+- [Tecnologia 1](https://github.com)
+- [Tecnologia 2](https://github.com)
 
 ## 💻 Projeto
 
@@ -13,8 +14,8 @@ O projeto é uma ...
 ## 🚀 Como executar
 
 - Clone o repositório
-- Instale as dependências com `yarn`
-- Inicie o servidor com `yarn dev`
+- Instale as dependências com `comando`
+- Inicie o servidor com `comando`
 
 Agora você pode fazer as requisições que estão no arquivo [`request.http`](request.http).
 
